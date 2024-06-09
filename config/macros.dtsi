@@ -1,9 +1,3 @@
-macro_jpn/eng: macro_jpn/eng{
-compatible = "zmk,behavior-macro";
-label = "macro_jpn/eng";
-#binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp GRAVE>;
-};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
